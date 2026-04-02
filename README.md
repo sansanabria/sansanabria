@@ -24,16 +24,7 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sansanabria&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansanabria&layout=compact&hide_border=true&count_private=true" alt="Top Languages" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sansanabria&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### Let's connect
 
