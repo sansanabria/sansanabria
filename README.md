@@ -4,9 +4,9 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 
 ### What I do
 
-- **Data Analysis** — Transforming raw data into structured frameworks for decision-making
-- **Process Automation** — Building reliable workflows that save time and reduce errors
-- **EdTech** — Creating language learning tools
+- **Data Analysis** — Transforming raw data into structured frameworks for decision-making.
+- **Process Automation** — Building reliable workflows that save time and reduce errors.
+- **EdTech** — Creating language learning tools.
 
 
 ### Currently working on
