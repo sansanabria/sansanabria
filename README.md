@@ -6,8 +6,8 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 
 - **Data Analysis** — Transforming raw data into structured frameworks for decision-making
 - **Process Automation** — Building reliable workflows that save time and reduce errors
-- **EdTech** — Creating language learning tools for Spanish speakers
-- **EU Funding Research** — Analyzing public funding data to identify opportunities
+- **EdTech** — Creating language learning tools
+
 
 ### Currently working on
 
