@@ -16,7 +16,7 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 
 ### Tools & Technologies
 
-`Python` `JavaScript` `HTML/CSS` `Data Analysis` `Process Design` `Automation`
+`Python` `JavaScript` `HTML/CSS` `Data Analysis` `Process Design` `Automation` ` n8n `
 
 ### Let's connect
 
