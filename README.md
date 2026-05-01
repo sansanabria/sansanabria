@@ -8,11 +8,6 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 - **Process Automation** — Building reliable workflows that save time and reduce errors.
 
 
-### Currently working on
-
-- [EnglishCoach](https://englishcoach-two.vercel.app) — A structured English learning app for Spanish speakers (A1-A2)
-- [EU Funding Analysis](https://github.com/sansanabria/eu-funding-intermediaries-analysis) — Decision framework for EIF financial intermediaries
-
 ### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
