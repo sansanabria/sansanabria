@@ -23,14 +23,16 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-sanabria12/)
 
-### What Others Say
+### References & Endorsements
 
-Highlights paraphrased from formal recommendation letters, available privately on request out of respect for the privacy of the people and company involved:
+Formal letters of recommendation are available on request. They are not published here, out of respect for the privacy of the individuals and company involved. The highlights below are paraphrased from those letters.
 
-- **Exceptional professionalism, leadership, and sound decision-making**: consistently exceeding expectations and ranked among the most valuable team members (Managing Director)
-- **Continuous-improvement mindset**: identifying root causes, challenging existing processes, and finding more efficient, impactful ways of working (Team Lead)
-- **Strong Python skills, sharp analytical reasoning, and attention to detail**: with a consistent ability to spot and implement process improvements (Senior colleague, fund accounting)
-- **Adaptable, collaborative, and a critical thinker**: connecting different perspectives and contributing beyond immediate responsibilities
-- **Proactive, reliable, accountable, and highly respected** by colleagues and supervisors alike
+| Focus Area | Endorsement Highlight | Source |
+|---|---|---|
+| **Leadership & Judgment** | Demonstrated exceptional professionalism and sound decision-making. Consistently exceeded expectations and was ranked among the team's most valuable members. | Managing Director |
+| **Continuous Improvement** | Identifies root causes, challenges established processes, and implements more efficient, higher-impact ways of working. | Team Lead |
+| **Technical & Analytical Skills** | Strong Python proficiency, sharp analytical reasoning, and meticulous attention to detail, with a consistent record of identifying and delivering process improvements. | Senior Colleague, Fund Accounting |
+| **Collaboration** | Adaptable, collaborative critical thinker who bridges perspectives and contributes beyond the scope of the role. | Colleagues |
+| **Reliability** | Proactive, accountable, and highly regarded by both peers and supervisors. | Colleagues & Supervisors |
 
-Full recommendation letters available on request.
+*Full recommendation letters available upon request.*
