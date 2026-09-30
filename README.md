@@ -27,7 +27,7 @@ Multilingual professional who builds tools, automates workflows, and turns data 
 
 Formal letters of recommendation are available on request. They are not published here, out of respect for the privacy of the individuals and company involved. The highlights below are paraphrased from those letters.
 
-| Focus Area | Endorsement Highlight | Source |
+| Focus Area | Endorsement Highlight | Endorsed By |
 |---|---|---|
 | **Leadership & Judgment** | Demonstrated exceptional professionalism and sound decision-making. Consistently exceeded expectations and was ranked among the team's most valuable members. | Managing Director |
 | **Continuous Improvement** | Identifies root causes, challenges established processes, and implements more efficient, higher-impact ways of working. | Team Lead |
